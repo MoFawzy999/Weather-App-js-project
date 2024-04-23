@@ -1,2 +1,2 @@
 # Weather-App-js-project
-Weather App using HTML-CSS-JavaScript
+Weather App for represent information and forecasts about weather using HTML-CSS-JavaScript and OpenWeatherAPI
